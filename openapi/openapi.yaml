@@ -18,9 +18,9 @@ tags:
   - name: Utility Billers
     description: The data on **Utility Billers** provides insight into the utility payment services that can be used to make a bill payment. With the **Utility Billers** feature, you can get details of over 50 utility payment companies for various services located in different regions. <br> <br> Some of the information included in the biller's details are the biller's name, service type, and payment type. 
   - name: Pay Bill
-    description: The **Pay Bill** feature works with other features in the Utility Payments product to make utility payments to a subscriber. Actions you can carry out include making an instant electricity, water, or internet bill payment. <br> Some of the information you can view includes the transaction ID, the reference ID for each utility payment, the discount applied to each utility payment, and the amount used in makng the utility payment.
+    description: The **Pay Bill** feature works with other features in the Utility Payments product to make utility payments to a subscriber. Actions you can carry out include making an instant electricity, water, or internet bill payment. <br> <br> Some of the information you can view includes the transaction ID, the reference ID for each utility payment, the discount applied to each utility payment, and the amount used in makng the utility payment.
   - name: Transactions
-    description: The Utilty Payments **Transactions** feature enables you to access information on every utility payment carried out on your Reloadly account. Every transaction has a unique ID for each transaction done by an account. Important data in the details of every utility payment transaction include the transaction ID, transaction date, biller's name, reference ID, and the discount applied to the transaction  —  if there was any. 
+    description: The Utilty Payments **Transactions** feature enables you to access information on every utility payment carried out on your Reloadly account. Every transaction has a unique ID for each transaction done by an account. <br> <br> Important data in the details of every utility payment transaction include the transaction ID, transaction date, biller's name, reference ID, and the discount applied to the transaction  —  if there was any. 
 
 components:
   securitySchemes:
