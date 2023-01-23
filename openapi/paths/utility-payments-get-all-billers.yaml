@@ -45,7 +45,7 @@ get:
       name: size
       schema:
         type: integer
-        description: This indicates the number of billers to be retrieved on a page. Default value is 200.
+        description: This indicates the number of billers to be retrieved on a page. Default value is 20.
         example: 10
 
   responses:
